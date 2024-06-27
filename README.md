@@ -30,10 +30,10 @@ To run this project, ensure you have the following dependencies installed:
 ## Results
 
 ### Model Performance
-    Model	        Accuracy	Precision	Recall
+    Model	            Accuracy	Precision	Recall
     Logistic Regression	    0.85	0.87	0.83
-    Decision Tree	        0.82	0.80	0.85
-    Random Forest	        0.88	0.90	0.86
+    Decision Tree	            0.82	0.80	0.85
+    Random Forest	            0.88	0.90	0.86
     Support Vector Machine	    0.84	0.86	0.82
     Gradient Boosting	    0.89	0.91	0.87
 
