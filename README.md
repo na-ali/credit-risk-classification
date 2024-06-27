@@ -37,7 +37,7 @@ To run this project, ensure you have the following dependencies installed:
     Support Vector Machine	    0.84	0.86	    0.82
     Gradient Boosting	    0.89	0.91	    0.87
 
-## Best Performing Model
+### Best Performing Model
 
 - Gradient Boosting: Highest accuracy (0.89), precision (0.91), and recall (0.87).
 - Most reliable for predicting loan defaults.
